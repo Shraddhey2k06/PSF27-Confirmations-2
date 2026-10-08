@@ -1,6 +1,6 @@
 // Fresh PSF'27 deployment
 // Replace this URL only if you create a different Apps Script Web App deployment.
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxkqfxelvy4P-K4cjvU8mOTXeljbIA_nKh4rKguxYcXdLPEc7WvSsaYIoYYXpm0D4w/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxiZ4JPrjVb4_9nS00vOKIMTH3gwQnKzHSHIP4qpr6PdZEyUiHNi3MiuXobq-TVSi9w/exec";
 
 const form = document.getElementById("investorForm");
 const submitBtn = document.getElementById("submitBtn");
